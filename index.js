@@ -23,3 +23,4 @@ const createFareMultiplier = function(multiplier) {
   const selectDifferentDrivers = function(arrayOfDrivers, func) {
     return func(arrayOfDrivers);
   };
+  
